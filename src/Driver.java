@@ -1,13 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ CS 2043 Project - ATM
+    Kurt Bowes, Kody Tippett, Sebastien Gauthier
  */
 
-/**
- *
- * @author lap-kb
- */
 public class Driver {
 
     /**
